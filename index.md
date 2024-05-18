@@ -1,4 +1,4 @@
-## Who I am
+# Who I am
 # Projects
 ## Business
 ### Project 1
