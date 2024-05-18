@@ -1,5 +1,5 @@
 title: Portfolio  
-logo: /assets/img/SDG_logo.png
+#logo: /assets/img/SDG_logo.png
 description: Welcome to my personal portfolio!
 show_downloads: false
 theme: jekyll-theme-minimal
