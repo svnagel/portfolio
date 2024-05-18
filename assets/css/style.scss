@@ -2,4 +2,27 @@
 ---
 
 @import "{{ site.theme }}";
-body {background-image: url("../img/background.png");}
+
+body {
+    background-image: url("../img/background.png");
+}
+
+/* unvisited link */
+a:link {
+    color: #EACEB7;
+}
+  
+  /* visited link */
+a:visited {
+    color: #EACEB7;
+}
+  
+  /* mouse over link */
+a:hover {
+    color: #FAF2EC;
+}
+  
+  /* selected link */
+  a:active {
+    color: #FAF2EC;
+  }
