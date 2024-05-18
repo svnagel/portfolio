@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+header {
+    background-color: white;
+}
+
 body {
     background-image: url("../img/background.png");
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
